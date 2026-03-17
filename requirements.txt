@@ -1,0 +1,15 @@
+opencv-python
+matplotlib
+pyyaml
+tqdm
+requests
+psutil
+dill
+pywavelets
+timm
+scipy
+thop 
+einops
+pandas
+seaborn
+ultralytics-thop
