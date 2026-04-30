@@ -2,7 +2,17 @@
 
 This repository is the official implementation of:
 
-Guo, Y.; Yamamoto, Y. and Taniguchi, Y. (2026). Separation-Aware Downsampling for Vehicle Detection. In Proceedings of the 21st International Conference on Computer Vision Theory and Applications - Volume 1, ISBN 978-989-758-804-4, ISSN 2184-4321, pages 483-490.
+```
+@inproceedings{guo2026separation,
+  author={Yupei Guo and Yota Yamamoto and Yukinobu Taniguchi},
+  title={Separation-Aware Downsampling for Vehicle Detection},
+  booktitle={Proceedings of the 21st International Conference on Computer Vision Theory and Applications - Volume 1: VISAPP},
+  year={2026},
+  pages={483-490},
+  publisher={SciTePress},
+  organization={INSTICC}
+}
+```
 
 ## Overview
 
